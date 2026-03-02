@@ -14,31 +14,6 @@
 
 环境逻辑建模 (Environmental Modeling)：结合 3000 年前的全球气候与天文特征，预测符号产生时的生存需求。
 
-🛠️ 技术栈 (Tech Stack)
-
-前端框架：React 18 (UMD 模式)
-
-样式系统：Tailwind CSS (响应式、深色模式优先)
-
-智能引擎：Google Gemini 2.5 Flash (API 驱动)
-
-数据持久化：Cloud Firestore (实时全球同步)
-
-部署平台：Vercel (一键托管)
-
-🚀 快速启动 (Quick Start)
-
-1. 部署到 Vercel
-
-直接将本仓库的 index.html (或 index.jsx) 拖入 Vercel 即可完成静态部署。
-
-2. 配置实验室“电力” (API Key)
-
-在 Vercel 项目的 Settings > Environment Variables 中添加：
-
-Key: apiKey
-
-Value: 你的 Gemini API 密钥。
 
 🏛️ 符号广场 (Symbol Square)
 
